@@ -17,8 +17,8 @@ class Circle
     {this->radius = r;}
 
     double calcArea();
-    /*double calcDiameter();
+    double calcDiameter();
     double calcVolume();
-    double calcDensity(double mass);*/
+    double calcDensity(double mass, double volume);
 
 };
